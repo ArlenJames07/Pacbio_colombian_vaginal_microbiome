@@ -1,0 +1,45 @@
+sample-id	CST	CST_detail	dominant_taxon	dominant_relative_abundance	cst_marker_taxon	cst_marker_relative_abundance	lactobacillus_relative_abundance	condition	Disbiosis
+NPT03	CST III	CST III: Lactobacillus iners dominated	Lactobacillus iners	0.4632824051256777	Lactobacillus iners	0.4632824051256777	0.4636109742073271	NP	no
+NPT05	CST III	CST III: Lactobacillus iners dominated	Lactobacillus iners	0.9950009373242517	Lactobacillus iners	0.9950009373242517	0.998687746047616	NP	no
+NPT06	CST I	CST I: Lactobacillus crispatus dominated	Lactobacillus crispatus	0.9334464309017356	Lactobacillus crispatus	0.9334464309017356	0.9410152681717343	NP	no
+NPT07	CST I	CST I: Lactobacillus crispatus dominated	Lactobacillus crispatus	0.9947503860010294	Lactobacillus crispatus	0.9947503860010294	0.9950077200205868	NP	no
+NPT09	CST IV	CST IV-A: diverse; top taxon UBA629 sp005465875	UBA629 sp005465875	0.8548777085464522	Lactobacillus iners	0.003533897516972008	0.003719892123128429	NP	no
+NPT10	CST III	CST III: Lactobacillus iners dominated	Lactobacillus iners	0.8740502942750134	Lactobacillus iners	0.8740502942750134	0.8741573033707865	NP	no
+NPT11	CST I	CST I: Lactobacillus crispatus dominated	Lactobacillus crispatus	0.998624547246802	Lactobacillus crispatus	0.998624547246802	0.9994039704736142	NP	no
+NPT12	CST V	CST V: Lactobacillus jensenii dominated	Lactobacillus jensenii	0.6074647561821123	Lactobacillus jensenii	0.6074647561821123	0.9994222324936445	NP	no
+NPT13	CST III	CST III: Lactobacillus iners dominated	Lactobacillus iners	0.7343411627519574	Lactobacillus iners	0.7343411627519574	0.9997501249375313	NP	no
+NPT14	CST III	CST III: Lactobacillus iners dominated	Lactobacillus iners	0.6302103250478012	Lactobacillus iners	0.6302103250478012	0.938687061822817	NP	no
+NPT15	CST IV	CST IV-A: diverse; top taxon Lactobacillus paragasseri	Lactobacillus paragasseri	0.475079017748602	Lactobacillus iners	0.07156171488775427	0.5520706702325958	NP	no
+NPT17	CST IV	CST IV-A: diverse; top taxon Bifidobacterium vaginale D	Bifidobacterium vaginale D	0.21346750883203083	Lactobacillus iners	0.028369553580987045	0.02954715769189594	NP	no
+NPT18	CST III	CST III: Lactobacillus iners dominated	Lactobacillus iners	0.9857209894750956	Lactobacillus iners	0.9857209894750956	0.9858885834953409	NP	no
+NPT19	CST III	CST III: Lactobacillus iners dominated	Lactobacillus iners	0.9984358939983018	Lactobacillus iners	0.9984358939983018	0.9984805827412074	NP	no
+NPT20	CST III	CST III: Lactobacillus iners dominated	Lactobacillus iners	0.9993963479048242	Lactobacillus iners	0.9993963479048242	0.9996478696111475	NP	no
+NPT22	CST III	CST III: Lactobacillus iners dominated	Lactobacillus iners	0.9958491669102602	Lactobacillus iners	0.9958491669102602	0.9999415375621163	NP	no
+NPT23	CST I	CST I: Lactobacillus crispatus dominated	Lactobacillus crispatus	0.9900449192667233	Lactobacillus crispatus	0.9900449192667233	0.9922301808911012	NP	no
+NPT24	CST I	CST I: Lactobacillus crispatus dominated	Lactobacillus crispatus	0.9974601044711746	Lactobacillus crispatus	0.9974601044711746	0.9993770067570806	NP	no
+NPT25	CST I	CST I: Lactobacillus crispatus dominated	Lactobacillus crispatus	0.6194103194103194	Lactobacillus crispatus	0.6194103194103194	0.9938574938574939	NP	no
+PT01	CST IV	CST IV-B: anaerobe/BV-associated; top taxon Gardnerella vaginalis	Gardnerella vaginalis	0.4311233665028174	Lactobacillus iners	0.0027574631339167964	0.0032370219398153697	PT	si
+PT02	CST IV	CST IV-A: diverse; top taxon Lactobacillus paragasseri	Lactobacillus paragasseri	0.6921026653504442	Lactobacillus crispatus	0.0	0.6923000987166831	PT	si
+PT03	CST IV	CST IV-A: diverse; top taxon Lactobacillus paragasseri	Lactobacillus paragasseri	0.600347021399653	Lactobacillus iners	0.06680161943319839	0.6785232311548102	PT	si
+PT04	CST IV	CST IV-A: diverse; top taxon Lactobacillus paragasseri	Lactobacillus paragasseri	0.6039910361754348	Lactobacillus iners	0.0011738341692455448	0.6051648703446804	PT	si
+PT05	CST IV	CST IV-B: anaerobe/BV-associated; top taxon Megasphaera_C lornae	Megasphaera_C lornae	0.3135930047694754	Lactobacillus iners	0.24542925278219396	0.24602543720190778	PT	si
+PT06	CST III	CST III: Lactobacillus iners dominated	Lactobacillus iners	0.654862579281184	Lactobacillus iners	0.654862579281184	0.9821353065539112	PT	si
+PT07	CST III	CST III: Lactobacillus iners dominated	Lactobacillus iners	0.8819261907265272	Lactobacillus iners	0.8819261907265272	0.8824518978025445	PT	si
+PT08	CST IV	CST IV-A: diverse; top taxon UBA629 sp005465875	UBA629 sp005465875	0.7585168969763305	Lactobacillus iners	0.10808592146668491	0.10863319195512383	PT	si
+PT09	CST III	CST III: Lactobacillus iners dominated	Lactobacillus iners	0.9550187674052548	Lactobacillus iners	0.9550187674052548	0.9558057876256205	PT	si
+PT10	CST IV	CST IV-A: diverse; top taxon UBA629 sp005465875	UBA629 sp005465875	0.5155308298562818	Lactobacillus iners	0.0004636068613815484	0.0004636068613815484	PT	si
+PT11	CST IV	CST IV-A: diverse; top taxon UBA629 sp005465875	UBA629 sp005465875	0.41436840313244805	Lactobacillus iners	0.03455907388491658	0.03592100783112019	PT	si
+PT12	CST III	CST III: Lactobacillus iners dominated	Lactobacillus iners	0.9212404627122815	Lactobacillus iners	0.9212404627122815	0.9218557715973419	PT	si
+PT13	CST IV	CST IV-A: diverse; top taxon Burkholderia-Caballeronia-Paraburkholderia (genus)	Burkholderia-Caballeronia-Paraburkholderia (genus)	0.6017891027378693	Lactobacillus iners	0.0004517936206740761	0.0007228697930785217	PT	si
+PT14	CST III	CST III: Lactobacillus iners dominated	Lactobacillus iners	0.9821428571428571	Lactobacillus iners	0.9821428571428571	0.9825565361279646	PT	si
+PT15	CST IV	CST IV-A: diverse; top taxon Klebsiella_724518 granulomatis	Klebsiella_724518 granulomatis	0.5395183175033921	Lactobacillus crispatus	0.15485074626865672	0.1584124830393487	PT	si
+PT16	CST IV	CST IV-B: anaerobe/BV-associated; top taxon Gardnerella vaginalis	Gardnerella vaginalis	0.6222331529758977	Lactobacillus iners	0.2221675684538449	0.22315133628463682	PT	si
+PT17	CST IV	CST IV-B: anaerobe/BV-associated; top taxon Gardnerella vaginalis	Gardnerella vaginalis	0.5087261962620951	Lactobacillus iners	0.26752971325056335	0.26752971325056335	PT	si
+PT18	CST IV	CST IV-A: diverse; top taxon Lactobacillus mulieris	Lactobacillus mulieris	0.8939942448714379	Lactobacillus iners	0.09941520467836257	0.9961013645224173	PT	si
+PT19	CST IV	CST IV-B: anaerobe/BV-associated; top taxon Gardnerella vaginalis	Gardnerella vaginalis	0.6468766894382464	Lactobacillus iners	0.04128372733081044	0.04128372733081044	PT	si
+PT20	CST III	CST III: Lactobacillus iners dominated	Lactobacillus iners	0.811027679623086	Lactobacillus iners	0.811027679623086	0.8826560659599529	PT	si
+PT21	CST IV	CST IV-B: anaerobe/BV-associated; top taxon Prevotella buccalis	Prevotella buccalis	0.34590437361008153	Lactobacillus iners	0.01640103780578206	0.016679021497405484	PT	si
+PT22	CST IV	CST IV-B: anaerobe/BV-associated; top taxon Prevotella buccalis	Prevotella buccalis	0.29719322662955233	Lactobacillus iners	0.010020876826722338	0.010020876826722338	PT	si
+PT23	CST IV	CST IV-B: anaerobe/BV-associated; top taxon Prevotella buccalis	Prevotella buccalis	0.19120255409719758	Lactobacillus iners	0.040085136573252925	0.040321627054511054	PT	si
+PT24	CST IV	CST IV-A: diverse; top taxon Streptococcus pyogenes	Streptococcus pyogenes	0.814665592264303	Lactobacillus crispatus	0.14101531023368252	0.15390813859790492	PT	si
+PT25	CST IV	CST IV-A: diverse; top taxon Streptococcus pyogenes	Streptococcus pyogenes	0.7521762068055922	Lactobacillus iners	0.07029807438670535	0.07240833553152203	PT	si
